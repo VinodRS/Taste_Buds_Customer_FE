@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614390984598",
+    "project_id": "quick-pointer-355409",
+    "storage_bucket": "quick-pointer-355409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614390984598:android:8d60f371597fca33dbf7b7",
+        "android_client_info": {
+          "package_name": "com.customerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7yNdn8qEBP2fwLe5NWu9FFylfAKt4pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614390984598:android:482940f29cc4b7b9dbf7b7",
+        "android_client_info": {
+          "package_name": "com.example.taste_buds_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7yNdn8qEBP2fwLe5NWu9FFylfAKt4pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
